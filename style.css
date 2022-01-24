@@ -1,0 +1,44 @@
+body {
+  font-family: verdana;
+  color: white;
+  background-image: url("spinning_cube3.gif");
+  background-position: center;
+  background-size:20%
+}
+img {
+  width:350px;
+  height:350px;
+  border: 2px solid white;
+}
+a:link {
+    font-weight: bolder;
+    color: #40E0D0;
+}
+a:visited {
+    color: #DE3163;
+}
+a:hover {
+  color:#C0FF4E;
+}
+a:active {
+  color: #FFDC00;
+}
+.header {
+  border:10px solid #40E0D0;
+  text-align: center;
+  background-color: #17202A;
+  margin:100px;
+  padding:20px;
+}
+.tutorialbox {
+  border-left: 10px solid #40E0D0;
+  margin:50px 100px;
+  padding:50px 100px 70px 100px;
+  background-color: #17202A;
+}
+.end {
+  border-left: 10px solid #40E0D0;
+  margin: 50px 100px;
+  padding:20px;
+  background-color: #17202A;
+}
